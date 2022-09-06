@@ -1,0 +1,1 @@
+C:\Users\julia\Documents\Git\flutter_rust_test\rust\target\armv7-linux-androideabi\debug\librust.a: C:\Users\julia\Documents\Git\flutter_rust_test\rust\src\api.rs C:\Users\julia\Documents\Git\flutter_rust_test\rust\src\bridge_generated.rs C:\Users\julia\Documents\Git\flutter_rust_test\rust\src\lib.rs

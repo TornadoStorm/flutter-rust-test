@@ -1,0 +1,9 @@
+c:\Users\julia\Documents\Git\flutter_rust_test\rust\target\debug\deps\allo_isolate-63deb6c4ecb59337.rmeta: C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14-beta.1\src\lib.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14-beta.1\src\dart_array.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14-beta.1\src\into_dart.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14-beta.1\src\into_dart_extra.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14-beta.1\src\ffi.rs
+
+c:\Users\julia\Documents\Git\flutter_rust_test\rust\target\debug\deps\allo_isolate-63deb6c4ecb59337.d: C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14-beta.1\src\lib.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14-beta.1\src\dart_array.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14-beta.1\src\into_dart.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14-beta.1\src\into_dart_extra.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14-beta.1\src\ffi.rs
+
+C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14-beta.1\src\lib.rs:
+C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14-beta.1\src\dart_array.rs:
+C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14-beta.1\src\into_dart.rs:
+C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14-beta.1\src\into_dart_extra.rs:
+C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\allo-isolate-0.1.14-beta.1\src\ffi.rs:

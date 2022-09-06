@@ -1,0 +1,11 @@
+C:\Users\julia\Documents\Git\flutter_rust_test\rust\target\debug\deps\cargo_metadata-a0924e92eeff5f67.rmeta: C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\lib.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\dependency.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\diagnostic.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\errors.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\messages.rs
+
+C:\Users\julia\Documents\Git\flutter_rust_test\rust\target\debug\deps\libcargo_metadata-a0924e92eeff5f67.rlib: C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\lib.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\dependency.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\diagnostic.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\errors.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\messages.rs
+
+C:\Users\julia\Documents\Git\flutter_rust_test\rust\target\debug\deps\cargo_metadata-a0924e92eeff5f67.d: C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\lib.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\dependency.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\diagnostic.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\errors.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\messages.rs
+
+C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\lib.rs:
+C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\dependency.rs:
+C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\diagnostic.rs:
+C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\errors.rs:
+C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\cargo_metadata-0.15.0\src\messages.rs:

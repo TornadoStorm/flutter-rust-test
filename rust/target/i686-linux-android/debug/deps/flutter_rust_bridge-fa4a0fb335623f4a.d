@@ -1,0 +1,10 @@
+C:\Users\julia\Documents\Git\flutter_rust_test\rust\target\i686-linux-android\debug\deps\flutter_rust_bridge-fa4a0fb335623f4a.rmeta: C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\flutter_rust_bridge-1.42.0\src\lib.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\flutter_rust_bridge-1.42.0\src\handler.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\flutter_rust_bridge-1.42.0\src\rust2dart.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\flutter_rust_bridge-1.42.0\src\support.rs
+
+C:\Users\julia\Documents\Git\flutter_rust_test\rust\target\i686-linux-android\debug\deps\libflutter_rust_bridge-fa4a0fb335623f4a.rlib: C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\flutter_rust_bridge-1.42.0\src\lib.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\flutter_rust_bridge-1.42.0\src\handler.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\flutter_rust_bridge-1.42.0\src\rust2dart.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\flutter_rust_bridge-1.42.0\src\support.rs
+
+C:\Users\julia\Documents\Git\flutter_rust_test\rust\target\i686-linux-android\debug\deps\flutter_rust_bridge-fa4a0fb335623f4a.d: C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\flutter_rust_bridge-1.42.0\src\lib.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\flutter_rust_bridge-1.42.0\src\handler.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\flutter_rust_bridge-1.42.0\src\rust2dart.rs C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\flutter_rust_bridge-1.42.0\src\support.rs
+
+C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\flutter_rust_bridge-1.42.0\src\lib.rs:
+C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\flutter_rust_bridge-1.42.0\src\handler.rs:
+C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\flutter_rust_bridge-1.42.0\src\rust2dart.rs:
+C:\Users\julia\.cargo\registry\src\github.com-1ecc6299db9ec823\flutter_rust_bridge-1.42.0\src\support.rs:
