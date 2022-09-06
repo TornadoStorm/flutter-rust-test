@@ -6,4 +6,5 @@
 4. Either run: `echo "ANDROID_NDK=(path to NDK)" >> ~/.gradle/gradle.properties`, or go to your user folder /.gradle/.gradle.properties and ensure it contains the line: ANDROID_NDK=(path to NDK), where the NDK path is the path to your version 22 NDK, which on Windows is: `ANDROID_NDK=C:\\Users\\[username]\\AppData\\Local\\Android\\Sdk\\ndk-bundle`. Make sure to you double slashes! (`\\`).
 5. Install [Rust](https://www.rust-lang.org/tools/install).
 6. Ensure that minimum JDK 8 is installed.
-7. With a terminal opened in the rust folder, run `cargo build`
+7. Open a terminal and run `cargo install cargo-ndk --version 2.6.0`
+8. With a terminal opened **in the rust folder**, run `cargo build`
