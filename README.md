@@ -7,4 +7,4 @@
 5. Install [Rust](https://www.rust-lang.org/tools/install).
 6. Ensure that minimum JDK 8 is installed.
 7. Open a terminal and run `cargo install cargo-ndk --version 2.6.0`
-8. With a terminal opened **in the rust folder**, run `cargo build`
+8. With a terminal opened **in the project folder**, run `rustup target add aarch64-linux-android armv7-linux-androideabi x86_64-linux-android i686-linux-android`

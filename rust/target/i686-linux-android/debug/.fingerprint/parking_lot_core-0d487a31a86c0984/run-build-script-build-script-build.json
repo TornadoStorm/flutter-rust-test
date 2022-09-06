@@ -1,1 +1,0 @@
-{"rustc":8344542133073785937,"features":"","target":0,"profile":0,"path":0,"deps":[[9717881948224062327,"build_script_build",false,827554234016136001]],"local":[{"RerunIfChanged":{"output":"i686-linux-android\\debug\\build\\parking_lot_core-0d487a31a86c0984\\output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
